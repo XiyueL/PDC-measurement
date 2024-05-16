@@ -1,2 +1,2 @@
 # PDC-measurement
-Various measurement of medication adherence 
+Various measurements of medication adherence 
